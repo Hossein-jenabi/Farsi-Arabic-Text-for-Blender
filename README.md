@@ -1,1 +1,1 @@
-# Farsi-Arabic-Text-for-Blender
+# Farsi Arabic Text for Blender
